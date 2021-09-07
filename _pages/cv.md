@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.M. in Classical Piano Performance, Purchase College, State University of New York, 2003 - 2007
+* B.S. in Molecular Psychobiology, Binghamton University, State University of New York, 2007 - 2009
+* Ph.D. in Neuroscience, Icahn School of Medicine at Mount Sinai, 2010 - 2016
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
